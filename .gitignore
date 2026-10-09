@@ -1,0 +1,8 @@
+media/input/*
+media/output/*
+media/bg/*
+paddle_env
+fake.py
+raugh.py
+tk_playaround.py
+__pycache__

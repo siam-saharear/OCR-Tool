@@ -23,10 +23,6 @@ ocr_thread.start()
 
 
 
-
-
-
-
 def popup_text(image, x, y, text):
     lines = text.split("\n")
 

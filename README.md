@@ -10,6 +10,9 @@ Run detection for an image, detected text will be shown when hovered over the ar
 - **Clipboard interaction:** A segment can be copied by hovering over and pressing "c".
 
 ## Demo
+<img src="screenshots/demo_1.png" alt="ImageOCR Demo" width="500">
+<img src="screenshots/demo_2.png" alt="ImageOCR Demo" width="500">
+<img src="screenshots/demo_3.png" alt="ImageOCR Demo" width="500">
 
 ## Requirements
 - Python 3.10 or later
